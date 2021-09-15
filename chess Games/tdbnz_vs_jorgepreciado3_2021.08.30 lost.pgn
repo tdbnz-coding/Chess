@@ -1,0 +1,16 @@
+[Event "Live Chess - chess"]
+[Site "Chess.com"]
+[Date "2021.08.30"]
+[Round "?"]
+[White "tdbnz"]
+[Black "jorgepreciado3"]
+[Result "0-1"]
+[TimeControl "600"]
+[WhiteElo "962"]
+[BlackElo "1776"]
+[Termination "jorgepreciado3 won by checkmate"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 e6 4. Bc4 Nf6 5. Ng5 d5 6. exd5 exd5 7. Bb3 d4 8. Ne2
+Be7 9. Nxf7 Nd5 10. Nxh8 Ndb4 11. Nf7 Qc7 12. Nf4 Qxf4 13. g3 Qf6 14. Nh8 Be6
+15. c3 Bxb3 16. axb3 Nd3+ 17. Ke2 Nce5 18. f4 Nxf4+ 19. gxf4 Qxf4 20. Rf1 Qxh2+
+21. Rf2 d3+ 22. Kf1 Qh1# 0-1

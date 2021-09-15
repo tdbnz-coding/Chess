@@ -1,0 +1,15 @@
+[Event "Live Chess - chess"]
+[Site "Chess.com"]
+[Date "2021.08.29"]
+[Round "?"]
+[White "tdbnz"]
+[Black "neimnom"]
+[Result "0-1"]
+[TimeControl "1800"]
+[WhiteElo "1052"]
+[BlackElo "1077"]
+[Termination "neimnom won by checkmate"]
+
+1. e4 e6 2. d4 a6 3. Nf3 b5 4. Nc3 Bb7 5. Ne5 h6 6. a4 Nc6 7. Nf3 Nge7 8. g4 Ng6
+9. b3 b4 10. Ne2 a5 11. g5 hxg5 12. Rg1 f6 13. h4 gxh4 14. Nxh4 Rxh4 15. d5 exd5
+16. exd5 Nce5 17. Bg5 Nf3# 0-1

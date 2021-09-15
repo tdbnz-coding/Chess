@@ -1,0 +1,17 @@
+[Event "Live Chess - chess"]
+[Site "Chess.com"]
+[Date "2021.08.29"]
+[Round "?"]
+[White "tdbnz"]
+[Black "twirtz"]
+[Result "0-1"]
+[TimeControl "1800"]
+[WhiteElo "1145"]
+[BlackElo "1201"]
+[Termination "twirtz won by checkmate"]
+
+1. e4 c5 2. d4 cxd4 3. Nf3 e5 4. Bc4 Be7 5. Nxe5 Qa5+ 6. b4 Qxe5 7. g3 Bxb4+ 8.
+c3 dxc3 9. f4 c2+ 10. Qd2 Bxd2+ 11. Kxd2 Qxa1 12. Nc3 Nf6 13. e5 Ne4+ 14. Nxe4
+Qd4+ 15. Kxc2 Qxe4+ 16. Kc3 Qxh1 17. Be3 Qxh2 18. Bf1 Qxg3 19. a4 Nc6 20. Kd3
+Nxe5+ 21. fxe5 Qxe5 22. Bd4 Qg3+ 23. Kc2 O-O 24. Bc4 d5 25. Bxd5 Bf5+ 26. Kd1
+Rfe8 27. Bxb7 Qe1# 0-1

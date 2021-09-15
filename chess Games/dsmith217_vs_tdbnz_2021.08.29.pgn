@@ -1,0 +1,17 @@
+[Event "Live Chess - chess"]
+[Site "Chess.com"]
+[Date "2021.08.29"]
+[Round "?"]
+[White "dsmith217"]
+[Black "tdbnz"]
+[Result "1-0"]
+[TimeControl "1800"]
+[WhiteElo "1271"]
+[BlackElo "1121"]
+[Termination "dsmith217 won by checkmate"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. Bc4 d5 5. exd5 Nb4 6. Nxe5 Bg4 7. Nf3 c6 8. a3
+Bxf3 9. gxf3 Na6 10. Qe2+ Be7 11. dxc6 bxc6 12. Bxa6 g5 13. d3 c5 14. Bb7 Rb8
+15. Bc6+ Nd7 16. Bxg5 f6 17. Bxf6 Rf8 18. Bxe7 Qxe7 19. Qxe7+ Kxe7 20. Bxd7 Rfd8
+21. Bg4 Rg8 22. O-O-O Rb7 23. Rde1+ Kf6 24. Nd5+ Kf7 25. Be6+ Kf8 26. Bxg8 Kxg8
+27. Rhg1+ Kf7 28. Re7+ Kf8 29. Rxb7 a5 30. Rgg7 h6 31. Rgc7 a4 32. Rb8# 1-0
